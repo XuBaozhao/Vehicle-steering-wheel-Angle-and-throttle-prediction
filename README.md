@@ -18,3 +18,5 @@ csv文件包括：center、left、right、steering、throttle、brake、speed.
 6. 通过model进行test.  
 
 ## 详细细节
+
+[CNN预测车辆方向盘角度和油门](https://blog.csdn.net/qq_38262266/article/details/102983153"CNN预测车辆方向盘角度和油门")
